@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         val key = "name"
         val value = "Serendipity"
 
@@ -24,7 +25,5 @@ class MainActivity : AppCompatActivity() {
            }
 
        }
-
-
     }
 }
