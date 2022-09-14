@@ -122,7 +122,10 @@ class MainActivity : AppCompatActivity() {
 
 ###### 2、Proto DataStore
 
+Proto DataStore 实现使用 DataStore 和协议缓冲区将类型化的对象保留在磁盘上。
 
+啥叫协议缓冲区呢？
 
+[参考](https://www.bilibili.com/video/BV1434y1Y7Ck/?spm_id_from=pageDriver&vd_source=f1408610c4243752036771041ce6443b)
 
 [官方文档](https://developer.android.google.cn/topic/libraries/architecture/datastore)
